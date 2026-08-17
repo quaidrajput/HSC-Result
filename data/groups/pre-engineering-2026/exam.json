@@ -1,0 +1,23 @@
+{
+  "id": "pre-engineering-2026",
+  "order": 0,
+  "title": "BIEK RESULT 2026",
+  "board": "Board of Intermediate Education Karachi",
+  "examination": "HSC Part-II Annual Examination 2026",
+  "class": "HSC PART-II",
+  "group": "Science — Pre-Engineering",
+  "groupShort": "PRE-ENGINEERING",
+  "groupDisplay": "Pre-Engineering",
+  "year": "2026",
+  "totalMarks": 1100,
+  "sourceNote": "BIEK Result Gazette 2026 (Pre-Engineering)",
+  "grades": [
+    { "grade": "A-1", "min": 80 },
+    { "grade": "A", "min": 70 },
+    { "grade": "B", "min": 60 },
+    { "grade": "C", "min": 50 },
+    { "grade": "D", "min": 40 },
+    { "grade": "E", "min": 33 },
+    { "grade": "FAIL", "min": 0 }
+  ]
+}
